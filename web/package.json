@@ -1,0 +1,21 @@
+{
+  "name": "lightstash",
+  "version": "1.0.0",
+  "description": "photostock",
+  "main": "inde.html",
+  "scripts": {
+    "test": "test",
+    "format": "prettier --write .",
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "dumik",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "page": "^1.11.6"
+  }
+}
